@@ -1,0 +1,5 @@
+-   Symmetric encryption uses a single key that needs to be shared among the people who need to receive the message while asymmetric encryption uses a pair of public key and a private key to encrypt and decrypt messages when communicating.
+-   Symmetric encryption is an old technique while asymmetric encryption is relatively new.
+-   Asymmetric encryption was introduced to complement the inherent problem of the need to share the key in symmetric encryption model, eliminating the need to share the key by using a pair of public-private keys.
+-   Asymmetric encryption takes relatively more time than the symmetric encryption.
+-   examples are RC4, AES, DES, 3DES, and QUAD. while asemmetric RSA, Diffie-Hellman, ECC algorithms.
